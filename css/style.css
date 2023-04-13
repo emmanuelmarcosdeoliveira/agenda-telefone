@@ -1,1 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f7f7f7;
+  font-family: "Exo 2", sans-serif;
+}
+
+header {
+  display: flex;
+  padding: 50px 100px;
+  justify-content: center;
+}
+
+header h1 {
+  padding: 0 100px;
+  margin-top: 30px;
+}
+
+header img {
+  width: 110px;
+  margin: 0 15px;
+}
+
+#ebac {
+  width: 200px;
+  height: 80px;
+}
+
+.container {
+  max-width: 1400px;
+  justify-content: space-around;
+  margin: auto;
+}
+input {
+  margin: 0 10px;
+  padding: 10px;
+  border: 1px solid black;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+  #nome-cadastrado {
+    width: 300px;
+    
+}
+
+ input #numero-telefone {
+  width: 10px;
+  
+}
+
+select {
+  width: 130px;
+  font-size: 1.2rem;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+#cadastrar {
+  background-color: rgb(6, 172, 20);
+  color: #fff;
+  border: 1px solid black;
+  box-shadow: 1px 1px 1px black;
+}
+table {
+  margin-top: 50px;
+  margin: auto;
+}
+
+thead th {
+  border-bottom: 2px solid black;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+table th {
+  padding: 05px 70px;
+  text-align: left;
+}
+
+table td {
+  text-align: center;
+  padding: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.096);
+}
+
+tbody th {
+  text-align: center;
+  font-weight: 400;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.096);
+}
+
+.name {
+  text-align: left;
+}
+
+th img {
+  width: 30px;
+  background-color: #f7f7f7;
+}
+
+tfoot th {
+  padding-top: 15px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+
+img {
+  width: 30px;
+}
+
+tbody > tr:nth-child(odd) {
+  background-color: antiquewhite;
+}
+input:hover{
+  background-color: #fff;
+  border: 2px solid rgba(0, 128, 0, 0.253);
+ 
+}
+
+select:hover{
+  background-color: #fff;
+  border: 2px solid rgba(0, 128, 0, 0.253);
+   
+}
+
+
 

@@ -1,20 +1,62 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@300;500&display=swap" rel="stylesheet">
+
+  <title>Agenda EBAC</title>
 </head>
+
 <body>
-  
+  <div class="container">
+    <header>
+      <img src="images/telefone.png" alt="imagem de telefone azul">
+      <h1> Agenda de Telefones </h1>
+      <img id="ebac" src="images/logo-ebac.png" alt="logo da EBAC">
+    </header>
+
+    <form id="form-telefone">
+      <input type="text" name="nomes" id="nome-cadastrado" required placeholder="Nome">
+      <input type="tel" name="numero-telefone" id="numero-telefone" required placeholder="Numero de telefone">
+      <select name="" id="tipo">
+        <option value="Celular">Celular</option>
+        <option value="Outro">Outros</option>
+      </select>
+
+      <input id="cadastrar" type="submit" value="+ Cadastrar">
+    </form>
 
 
+    <table cellspacing="0">
+      <thead>
+        <tr>
+          <th>Nome Cadastrado</th>
+          <th>Numero Telefone</th>
+          <th class="tipo">Tipo</th>
+        </tr>
+      </thead>
 
+      <tbody>
+        <tr></tr>
+      </tbody>
 
+      <tfoot>
+        <tr>
+          <th>Total de telefones cadastrados</th>
+          <th id="total"></th>
+        </tr>
+      </tfoot>
 
+    </table>
+  </div>
 
   <script src="js/script.js"></script>
 </body>
+
 </html>
