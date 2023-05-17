@@ -21,7 +21,7 @@
 
 ## Screenshots ou gif
 
-![Projeto- ](images/Agenda%20Telefone.mp4)
+![Projeto- ](images/Agenda%20Telefone.gif)
 
 ## Demonstração
 
