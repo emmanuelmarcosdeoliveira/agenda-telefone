@@ -2,10 +2,10 @@
 [Descrição](#descrição) |
 [Funcionalidades](#funcionalidades) |
 [Screenshot ou Gif](#screenshots-ou-gif) |
-[Demostração](n#demonstração) |
+[Demostração](#demonstração) |
 [Deploy](#deploy) |
 [Aprendizados](#aprendizados) |
-[Referencias](#referência) |
+[Referencias](#referência-de-estudos) |
 
 # Projeto - Agenda de telefone da EBAC
 
@@ -13,7 +13,7 @@
 
 | Nome | Descrição              |
 | ---- | ---------------------- |
-|Agenda de Telefones|O **intuito** desse projeto foi **criar uma pagina para agenda de telefones** fazendo o uso da **linguagem JavaScript** para **adição e calculado de total de numeros de telefone**.|
+|Agenda de Telefones|O **intuito** desse projeto foi **criar uma página para agenda de telefones**, fazendo o uso da **linguagem JavaScript** para **adição e calculado de total de numeros de telefone**.|
 
 ## Funcionalidades
 
@@ -40,7 +40,7 @@ Para fazer o deploy desse projeto rode
 
 - Trabalhando com Formulários.
 - Trabalhando com Tabelas.
-- Uso da linguagem JavaScript para input de dados em formulários e tabela.
+- Uso da linguagem JavaScript para input de dados em formulários e tabelas.
 
 ## Referência de estudos
 
