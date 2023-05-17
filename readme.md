@@ -1,54 +1,47 @@
-![banner-github](https://github.com/emmanuelmarcosdeoliveira/template-frontend/blob/main/assets/banner%20template.png)
+![banner-github](images/banner%20template.png)
 [Descrição](#descrição) |
 [Funcionalidades](#funcionalidades) |
 [Screenshot ou Gif](#screenshots-ou-gif) |
-[Demostração](n#demonstração) |
+[Demostração](#demonstração) |
 [Deploy](#deploy) |
 [Aprendizados](#aprendizados) |
-[Referencias](#referência) |
+[Referencias](#referência-de-estudos) |
 
-# Projeto - ---
+# Projeto - Agenda de telefone da EBAC
 
 ## Descrição:
 
 | Nome | Descrição              |
 | ---- | ---------------------- |
-| --   | Descrever o projeto -- |
+|Agenda de Telefones|O **intuito** desse projeto foi **criar uma página para agenda de telefones**, fazendo o uso da **linguagem JavaScript** para **adição e calculado de total de numeros de telefone**.|
 
 ## Funcionalidades
 
-- Responsividade
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
+- Uma página HTML  que se assemelhe a uma agenda de telefones. 
 
 ## Screenshots ou gif
 
-![Projeto- ](/)
+![Projeto- ](images/screenshot.png)
 
 ## Demonstração
 
 Clique no link para acessar. <br>
-[Projeto - ](http://www.projeto-login-liard.vercel.app/)
+[Agenda de Telefones ](https://agenda-telefone-theta.vercel.app/)
 
 ## Deploy
 
 Para fazer o deploy desse projeto rode
 
 ```bash
- http://
+ https://agenda-telefone-theta.vercel.app/
 ```
 
 ## Aprendizados
 
 - Trabalhando com Formulários.
-- Media Queries.
-- Device Break Point.
-- imagens em degrade.
+- Trabalhando com Tabelas.
+- Uso da linguagem JavaScript para input de dados em formulários e tabelas.
 
 ## Referência de estudos
 
-- [EBAC](https://ebaconline.com.br/)
-- [Estudonauta](https://www.estudonauta.com/)
-- [Curso em video](https://cursoemvideo.com)
-- [Origamid](https://origamid.com)
+- [EBAC](https://ebaconline.com.br/) 
