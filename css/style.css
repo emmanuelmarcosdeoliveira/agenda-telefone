@@ -77,11 +77,12 @@ thead th {
   border-bottom: 2px solid black;
   font-size: 1.4rem;
   font-weight: 500;
+  
 }
 
 table th {
   padding: 05px 70px;
-  text-align: left;
+ 
 }
 
 table td {
@@ -91,7 +92,7 @@ table td {
 }
 
 tbody th {
-  text-align: center;
+  text-align: left;
   font-weight: 400;
   border-bottom: 1px solid rgba(0, 0, 0, 0.096);
 }
