@@ -30,8 +30,7 @@ Clique no link para acessar. <br>
 
 ## Deploy
 
-Para fazer o deploy desse projeto rode
-
+Para fazer o deploy desse projeto acesse
 ```bash
  https://agenda-telefone-theta.vercel.app/
 ```
